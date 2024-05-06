@@ -17,8 +17,8 @@ You can see that the `Improved VL-Granger Test` and `Separated Method` are the c
 You can use the funtion by the folder **R_type** , load the below six functions .
 *  `VLgranger_Func.R`
 *  `compute_P_Func.R`
-*  `Simmulate_Bound_Part1.R`
-*  `Simmulate_Bound_Part2.R`
+*  `Simulate_Bound_Part1.R`
+*  `Simulate_Bound_Part2.R`
 *  `Separated_Method.R`
 *  `TwoStage_ImpVLGrangerTest.R`
 
