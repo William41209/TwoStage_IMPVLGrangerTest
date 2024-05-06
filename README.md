@@ -23,3 +23,5 @@ You can use the funtion by the folder **R_type** , load the below six functions 
 *  `TwoStage_ImpVLGrangerTest.R`
 
 By using `TwoStage_ImpVLGrangerTest.R` , you can get the *Bound* and *lag Relations* .
+
+## Example
