@@ -24,7 +24,7 @@ You can use the funtion by the folder **R_type** , load the below six functions 
 
 By using `TwoStage_ImpVLGrangerTest.R` , you can get the *Bound* and *lag Relations* .
 
-## Example
+## Example (R language)
 
 We use the variable lag simulation to generate the time series **Xt** & **Yt** , where
 
