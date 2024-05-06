@@ -28,9 +28,9 @@ By using `TwoStage_ImpVLGrangerTest.R` , you can get the *Bound* and *lag Relati
 
 We use the variable lag simulation to generate the time series **Xt** & **Yt** , where
 
-**Xt** is a AR(1) model with parameter 0.3 by `Xt_GENERATOR.R`  .
+**Xt** is a AR(1) model with parameter 0.3 by generating from `Variable_GENERATOR.R`  .
 
-**Yt** is a variable lag of mixture of lag 1 and lag 2 delay to Xt by `Yt_GENERATOR.R` .
+**Yt** is a variable lag of mixture of lag 1 and lag 2 delay to Xt by generating from `Variable_GENERATOR.R` .
 
 ![XYex](https://i.meee.com.tw/Pkra6Id.png "tsSIM")
 
