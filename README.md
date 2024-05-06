@@ -12,7 +12,7 @@ This algorithm is constucted by six functions.
 
 You can see that the `Improved VL-Granger Test` and `Separated Method` are the classification of the way to get the result : **Variable Lag Relationship**、**Fixed Lag Relationship**、**No Lag Relationship** .
 
-## Installation
+## Installation (R language)
 
 You can use the funtion by the folder **R_type** , load the below six functions .
 *  `VLgranger_Func.R`
