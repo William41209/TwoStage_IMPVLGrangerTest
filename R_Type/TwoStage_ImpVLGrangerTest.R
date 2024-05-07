@@ -1,5 +1,5 @@
 ### 總合併程式：
-### 要執行此城市需要將前面所有函式都載入才可使用
+### 要執行此函式需要將前面所有函式都載入才可使用
 SeparateImpVLGranger <- function(Yt,Xt,
                                  maxLag = 5,         # 最大 lag 之值
                                  alpha = 0.05,       # 設定 alpha
